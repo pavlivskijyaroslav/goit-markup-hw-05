@@ -463,6 +463,8 @@ footer .span-logo {
   align-items: center;
   gap: 16px;
   padding: 8px 24px;
+  min-width: 165px;
+  justify-content: center;
 }
 
 .btn-sub-footer-image {
